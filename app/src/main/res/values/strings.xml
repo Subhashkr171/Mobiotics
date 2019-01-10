@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobiotics</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="submit">Submit</string>
+    <string name="crypto_string">Crypto String</string>
+    <string name="enter_the_string">enter the String</string>
+</resources>
